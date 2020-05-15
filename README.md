@@ -6,7 +6,10 @@ Proyecto sobre un Hospedaje
     - Portugal
     
 ## Requerimientos
-| Day     | Meal    | Price |
+| Software     | Version    | Pagina |
 | --------|---------|-------|
-| Monday  | pasta   | $6    |
-| Tuesday | chicken | $8    |
+| Sqlite  | 3.31.1   | https://www.sqlite.org/index.html    |
+| MongoBD | 12.3 | https://www.postgresql.org   |
+| CouchDB | 3.1 | https://couchdb.apache.org  |
+| PostgreSQL | 12.3 | https://www.postgresql.org   |
+| MariaDB | 10.5.3 | https://mariadb.org   |
