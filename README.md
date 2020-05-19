@@ -19,3 +19,6 @@ Proyecto sobre un Hospedaje
 
  - Nuevos cambios Final 
 
+ ## Cambios en dev.v1
+ - Los cambios del la nueva rama
+
