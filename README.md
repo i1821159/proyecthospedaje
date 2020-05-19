@@ -13,3 +13,7 @@ Proyecto sobre un Hospedaje
 | CouchDB | 3.1 | https://couchdb.apache.org  |
 | PostgreSQL | 12.3 | https://www.postgresql.org   |
 | MariaDB | 10.5.3 | https://mariadb.org   |
+
+## Como desplegar la Aplicación
+ - Para desplegar la aplicacion se realiza lo siguiente :
+
