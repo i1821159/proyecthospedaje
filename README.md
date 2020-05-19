@@ -17,3 +17,5 @@ Proyecto sobre un Hospedaje
 ## Como desplegar la Aplicación
  - Para desplegar la aplicacion se realiza lo siguiente :
 
+ - Nuevos cambios Final 
+
